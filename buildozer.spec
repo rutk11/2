@@ -14,7 +14,6 @@ requirements = python3,pygame,kivy
 # Android 配置
 android.accept_sdk_license = True
 android.ndk = 25b
-android.sdk = 26
 android.archs = arm64-v8a
 
 # 权限配置
