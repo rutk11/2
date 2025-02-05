@@ -27,7 +27,6 @@ jobs:
           zlib1g-dev \
           libncurses5-dev \
           libncursesw5-dev \
-          libtinfo5 \
           python3-dev \
           autoconf \
           libtool \
